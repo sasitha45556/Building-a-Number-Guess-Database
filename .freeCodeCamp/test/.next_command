@@ -188,3 +188,6 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=postgres
 git add .
+git commit -m "fix: my commit"
+git branch
+git add .
