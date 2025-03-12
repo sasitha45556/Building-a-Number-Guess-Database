@@ -378,3 +378,6 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git status
 git add .
+git status
+git add modified: .freeCodeCamp/test/.cwd
+git add .freeCodeCamp/test/.cwd .freeCodeCamp/test/.next_command
