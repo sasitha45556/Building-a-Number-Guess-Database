@@ -285,3 +285,5 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 __vsc_prompt_cmd_original
 git remote add origin https://github.com/sasitha45556/Building-a-Number-Guess-Database.git
 git add .
+git commit -m "fix: final commit"
+git add .
