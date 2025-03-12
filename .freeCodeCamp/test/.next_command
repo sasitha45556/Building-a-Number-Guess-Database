@@ -287,3 +287,8 @@ git remote add origin https://github.com/sasitha45556/Building-a-Number-Guess-Da
 git add .
 git commit -m "fix: final commit"
 git add .
+git commit -m "fix: commit 1"
+git branch
+git checkout main
+git status
+git add .
