@@ -270,3 +270,18 @@ git commit -m "fix: my commit"
 git add .
 git commit -m "fix: next commit"
 git add .
+git commit -m "test: my commit"
+git branch -M main
+git checkout main
+echo "# Building-a-number-Guessing-Game-Database" >> README.md
+echo "# Building-a-Number-Guess-Database" >> README.md
+git remote remove origin
+echo "# Building-a-Number-Guess-Database" >> README.md
+git credential-cache exit
+git push origin main
+ssh-keygen -t ed25519 -C "your_email@example.com"
+__vsc_prompt_cmd_original
+ssh-keygen -t ed25519 -C "your_email@example.com"
+__vsc_prompt_cmd_original
+git remote add origin https://github.com/sasitha45556/Building-a-Number-Guess-Database.git
+git add .
