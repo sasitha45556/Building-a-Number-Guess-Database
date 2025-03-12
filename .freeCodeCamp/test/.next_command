@@ -195,3 +195,6 @@ git commit -m "fix: final Commit"
 ./number_guess.sh
 git push origin main --force
 git add .
+git commit -m "fix: final commit"
+git commit -m "fix: next commit"
+git add .
