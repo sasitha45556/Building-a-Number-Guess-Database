@@ -256,3 +256,5 @@ git commit -m "fix: my fix"
 git branch -M main
 git checkout main
 git add .
+git commit -m "fix: my fix"
+git add .
