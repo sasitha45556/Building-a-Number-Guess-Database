@@ -252,3 +252,7 @@ psql --username=freecodecamp --dbname=number_guess
 psql --username=freecodecamp --dbname=number_guess
 pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
 git add .
+git commit -m "fix: my fix"
+git branch -M main
+git checkout main
+git add .
