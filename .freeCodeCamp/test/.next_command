@@ -191,3 +191,7 @@ git add .
 git commit -m "fix: my commit"
 git branch
 git add .
+git commit -m "fix: final Commit"
+./number_guess.sh
+git push origin main --force
+git add .
